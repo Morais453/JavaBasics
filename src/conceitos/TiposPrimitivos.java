@@ -1,3 +1,5 @@
+package conceitos;
+
 public class TiposPrimitivos {
     public static void main(String[] args) {
         int idade = 21;
@@ -9,5 +11,8 @@ public class TiposPrimitivos {
         String nome ="Morais"; //cadeia de caracteres
 
         System.out.println("Olá meu nome é " + nome + " tenho " + idade + " anos e " + altura + " de altura e peso " + peso + "kg");
+        if (estouComFome && (sexo == 'M')) {
+            System.out.println("Meu CPF é " + cpf + " sou homem e estou com fome");
+        }
     }
 }

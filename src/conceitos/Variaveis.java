@@ -1,3 +1,5 @@
+package conceitos;
+
 public class Variaveis {
     public static void main(String[] args) {
         //Variavel é um valor volátil que pode ser reatribuido diversas vezes ao longo do programa

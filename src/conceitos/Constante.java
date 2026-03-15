@@ -1,3 +1,5 @@
+package conceitos;
+
 public class Constante {
 
     static final float VALOR_PI = 3.14f;
